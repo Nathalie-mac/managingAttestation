@@ -38,7 +38,7 @@ Document of system requirements (in process)
 
 UseCaseDiagram
 
-![image](https://github.com/Nathalie-mac/managingAttestation/blob/main/docs/schemas/UseCaseDiagramm.png)
+![image](https://github.com/Nathalie-mac/managingAttestation/blob/main/docs/schemas/UseCaseDiagram.png)
 
 
 ## UX/UI
