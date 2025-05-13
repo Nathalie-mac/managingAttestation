@@ -28,7 +28,7 @@ ER model of databases
 
 ## System Requirements
 
-[Document of business requirements](https://github.com/Nathalie-mac/managingAttestation/blob/main/docs/бизнес.docx)
+[Document of business requirements](https://github.com/Nathalie-mac/managingAttestation/blob/main/docs/business.docx)
 
 Document of system requirements (in process)
 
@@ -38,7 +38,7 @@ Document of system requirements (in process)
 
 UseCaseDiagram
 
-![image](https://github.com/Nathalie-mac/managingAttestation/blob/main/docs/schemas/UseCaseDiagramm.docx)
+![image](https://github.com/Nathalie-mac/managingAttestation/blob/main/docs/schemas/UseCaseDiagramm.png)
 
 
 ## UX/UI
